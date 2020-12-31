@@ -1,0 +1,17 @@
+{
+    "csv_file_name":"sample.csv",
+    "certificate_image":"sample.jpg",
+    "competition_name":"Drawing Competition",
+    "location_metrics":
+    {
+        "name_input_location":{
+            "x":"913",
+            "y":"1023"
+        },
+        "competation_input_location":{
+            "x":"952",
+            "y":"1408"
+        }
+
+    }
+}
